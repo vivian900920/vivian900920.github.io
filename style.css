@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255,209,75,1.00);
+}
+
+#card{
+    width: 300px;
+    height: 460px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-image: url(2__%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png);
+    box-shadow: inset 0 0 5px rgba(66,66,66,0.50);
+    -webkit-box-shadow: inset 0 0 5px rgba(66,66,66,0.50);
+}
+
+#pic{
+    width: 180px;
+    height: 180px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #FFC600;
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 90px;
+}
+
+#words{
+	width:60%;
+	margin: auto;
+}
+
+h1,h3{
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+	margin-top:10px;
+}
+
+h3{
+	margin-top:5px;
+}
+
+ul{
+	line-height: 24px;
+}
